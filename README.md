@@ -1,6 +1,6 @@
 # Project title: Prediction using Unsupervised ML
 
-#### the Project link is:
+#### The Project link is:
 [Project Code](https://github.com/himanshi-png/K-Means_Iris_Dataset/blob/main/Prediction%20Using%20Unsupervised%20ML.py)
 
 ## Description
