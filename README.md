@@ -1,8 +1,13 @@
 # Project title: Prediction using Unsupervised ML
+
+#### the Project link is:
+[Project Code](https://github.com/himanshi-png/K-Means_Iris_Dataset/blob/main/Prediction%20Using%20Unsupervised%20ML.py)
+
+## Description
 In this project, I tried to find optimum number of clusters in an Iris dataset using K_Means. I used libraries like pandas, matplotlib, seaborn and numpy. 
 
 ## About the Dataset
-The given dataset was given as a task from the Sparks Foundation (https://www.thesparksfoundationsingapore.org/). With this dataset I am tried to find the optimum number of clusters for K_Means and then value of K for K_Means classification. The name of the Dataset used for this project is Iris.csv. There are 150 rows and 6 columns with each column containing data about Sepal length and widhth; Petal length and width and Species.   .
+The given dataset was given as a task from the Sparks Foundation <https://www.thesparksfoundationsingapore.org/>. With this dataset I am tried to find the optimum number of clusters for K_Means and then value of K for K_Means classification. The name of the Dataset used for this project is Iris.csv. There are 150 rows and 6 columns with each column containing data about Sepal length and widhth; Petal length and width and Species.   .
 
 I have used be using Python 3 for this analysis. The Libraries/Packages I used in this projects are as follows:
 
